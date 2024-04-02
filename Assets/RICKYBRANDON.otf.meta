@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7ae1f1f7f1a360a4aa63a656ca38043f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RICKY BRANDON
+  fontNames:
+  - RICKY BRANDON
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92da15e0fd024474a8b514b90839d1ad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
